@@ -1,0 +1,6 @@
+class Vehicle{
+
+  void run(){
+    
+  }
+}
